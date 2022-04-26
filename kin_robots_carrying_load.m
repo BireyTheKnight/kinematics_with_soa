@@ -230,7 +230,7 @@ for i = 1:p
     k = k + size(J_all{i},2);
 end
 
-%Calculating the joint variables
+%Calculating the desired joint variables
 
 theta_d = pinv(J)*(phi_tc*V_c - phi_tb*V_b)
 
