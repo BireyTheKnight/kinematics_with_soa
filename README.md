@@ -1,4 +1,4 @@
-# kinematics_with_soa
+# velocity_kinematics_with_soa
 MATLAB CODE OF VELOCITY KINEMATICS OF SERIAL ROBOTS CARRYING A COMMON LOAD ON A MOBILE PLATFORM 
 
 Depending on the initial parameters, the code can be used for different scenarios
