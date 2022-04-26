@@ -1,11 +1,13 @@
 # kinematics_with_soa
-MATLAB CODE OF KINEMATICS OF SERIAL ROBOTS CARRYING A COMMON LOAD ON A MOBILE PLATFORM 
+MATLAB CODE OF VELOCITY KINEMATICS OF SERIAL ROBOTS CARRYING A COMMON LOAD ON A MOBILE PLATFORM 
 
 Depending on the initial parameters, the code can be used for different scenarios
 
 If only the parameters of a single serial robot is present then the code will calculate the joint variables for a single robot carrying a load on a mobile platform
 
 If all mobile platform velocities are chosen as 0 then the joint variables will be calculated as if the robot is stationary
+
+The current parameters within the code are arbitrary and they are present to be examples
 
 I'm aware the code isn't optimized and could be improved on. So I'm open to suggestions and would be happy if you reach me with your ideas
 
